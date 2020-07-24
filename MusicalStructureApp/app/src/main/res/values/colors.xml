@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#203946</color>
+
+    <color name="primary_dark_color">#13222A</color>
+
+    <color name="background">#FFF7DA</color>
+
+    <!-- Background colors for the different activities -->
+    <color name="category_skillet">#667F8F</color>
+
+    <color name="category_welshly_arms">#6E8898</color>
+
+    <color name="category_three_days_grace">#7C93A2</color>
+
+</resources>

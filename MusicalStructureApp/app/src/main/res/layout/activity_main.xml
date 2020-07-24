@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructureapp.MainActivity">
+
+    <TextView
+        android:id="@+id/skillet_text_view"
+        style="@style/CategoryStyle"
+        android:background="@color/category_skillet"
+        android:text="@string/category_skillet"/>
+
+    <TextView
+        android:id="@+id/welshly_arms_text_view"
+        style="@style/CategoryStyle"
+        android:background="@color/category_welshly_arms"
+        android:text="@string/category_welshly_arms"/>
+
+    <TextView
+        android:id="@+id/three_days_grace_text_view"
+        style="@style/CategoryStyle"
+        android:background="@color/category_three_days_grace"
+        android:text="@string/category_three_days_grace"/>
+
+</LinearLayout>

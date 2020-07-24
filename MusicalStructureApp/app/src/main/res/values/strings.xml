@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">My Music</string>
+
+    <string name="category_skillet">Skillet</string>
+
+    <string name="category_welshly_arms">Welshly Arms</string>
+
+    <string name="category_three_days_grace">Three Days Grace</string>
+
+    <string name="play_song">Play</string>
+
+</resources>
